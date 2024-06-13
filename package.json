@@ -1,0 +1,23 @@
+{
+  "name": "express-todo-app",
+  "version": "1.0.0",
+  "description": "A basic Express.js TODO app boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.0.0~x8.0.0",
+    "mongoose": "^3.1.0~5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.0",
+    "node",
+    "express",
+    "morgon": "^1.10.0"
+  }
+}
